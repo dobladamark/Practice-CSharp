@@ -24,6 +24,23 @@ namespace Practice_CSharp
             Console.WriteLine("Area " + area);
             Console.WriteLine("Perimeter " + perimeter);*/
 
+            //even or odd
+            /*int num;
+
+            Console.WriteLine("Input number : ");
+            num = int.Parse(Console.ReadLine());
+
+            if (num % 2 == 0)
+            {
+                Console.WriteLine("Even");
+                
+            }
+            else
+            {
+                Console.WriteLine("Odd");
+
+            }
+            */
 
 
         }
