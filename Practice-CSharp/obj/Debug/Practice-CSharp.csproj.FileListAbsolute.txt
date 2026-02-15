@@ -1,0 +1,7 @@
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\bin\Debug\Practice-CSharp.exe.config
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\bin\Debug\Practice-CSharp.exe
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\bin\Debug\Practice-CSharp.pdb
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\obj\Debug\Practice-CSharp.csproj.AssemblyReference.cache
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\obj\Debug\Practice-CSharp.csproj.CoreCompileInputs.cache
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\obj\Debug\Practice-CSharp.exe
+C:\My Files\Programming\CSharp\Practice Codes\Practice-CSharp\Practice-CSharp\obj\Debug\Practice-CSharp.pdb
