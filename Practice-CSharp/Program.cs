@@ -84,6 +84,20 @@ namespace Practice_CSharp
             }
 
             Console.WriteLine("Sum is " + sum);
+            
+
+            //Multiplication Table
+            int num;
+            Console.WriteLine("Enter num");
+            num = int.Parse(Console.ReadLine());
+
+            int i = 1;
+
+            do
+            {
+                Console.WriteLine(num + "x" + i + " = " + (num * i));   
+                i++;
+            } while (i <= 10);
             */
         }
     }
