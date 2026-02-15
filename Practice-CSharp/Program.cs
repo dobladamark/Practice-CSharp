@@ -98,7 +98,22 @@ namespace Practice_CSharp
                 Console.WriteLine(num + "x" + i + " = " + (num * i));   
                 i++;
             } while (i <= 10);
+            
+            //Count down
+            int n;
+            Console.WriteLine("Enter num");
+            n = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = n; i >= 1; i--)
+            {
+                Console.WriteLine(i);
+            }
+
+            Console.WriteLine("\n");  
             */
+
+
+
         }
     }
 }
