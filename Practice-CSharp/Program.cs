@@ -144,6 +144,29 @@ namespace Practice_CSharp
             
             }
             */
+            //find maximum
+            int n = int.Parse(Console.ReadLine());
+
+            // Step 2: Read all the numbers (separated by spaces)
+            string input = Console.ReadLine();
+            string[] parts = input.Split(' ');
+
+            // Step 3: Assume the first number is the maximum
+            int max = int.Parse(parts[0]);
+
+            // Step 4: Check each number to find the largest
+            for (int i = 1; i < parts.Length; i++)
+            {
+                int current = int.Parse(parts[i]);
+
+                if (current > max)
+                {
+                    max = current;  // Found a bigger number!
+                }
+            }
+
+            // Step 5: Print the maximum
+            Console.WriteLine(max);
         }
     }
 }
